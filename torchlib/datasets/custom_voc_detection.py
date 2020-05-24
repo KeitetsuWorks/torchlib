@@ -1,5 +1,5 @@
 ##
-## @file        CustomVOCDetection.py
+## @file        custom_voc_detection.py
 ## @brief       Custom Pascal VOC Detection Dataset Class
 ## @author      Keitetsu
 ## @date        2020/05/20
